@@ -1,4 +1,4 @@
-- 🙋‍♂️ Hi, I’m @GDTimi!
+- 🙋‍♂️ Hi, I’m Timi!
 - 👨‍💻 I’m currently working with JavaScript, PHP and more...
 - 💻 ... and always enjoy learning new things!
 - 🔠 For more project info, check my portfolio here: ([https://gdtimi.github.io/](https://gdtimi.github.io/))
