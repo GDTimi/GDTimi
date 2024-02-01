@@ -1,5 +1,5 @@
 - 🙋‍♂️ Hi, I’m Timi!
-- 👨‍💻 I’m currently working with JavaScript, PHP and more...
+- 👨‍💻 I’m currently working Ruby, Rails and more...
 - 💻 ... and always enjoy learning new things!
 - 🔠 For more project info, check my portfolio here: ([https://gdtimi.github.io/](https://gdtimi.github.io/))
 - 🥷 Codewars enjoyer!: [![Timi's Codewars profile](https://www.codewars.com/users/GDTimi/badges/small)](https://www.codewars.com/users/GDTimi)
